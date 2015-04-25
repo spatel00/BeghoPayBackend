@@ -1,0 +1,10 @@
+application: begho-transaction-services
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /(.+\.php)$
+  script: \1
+- url: /.*
+  script: index.php

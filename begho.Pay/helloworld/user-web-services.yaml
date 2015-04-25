@@ -1,0 +1,27 @@
+application: begho-webservices
+module: user-web-services
+instance_class: B1
+basic_scaling:
+	max_instances: 1
+version: 1
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /(.+\.php)
+  script: \1
+
+- url: /dependencies
+  login: admin
+  script: dbcred.php
+
+- url: /(.+\.php)
+  script: \1
+  
+- url: /.*
+  script: main.php

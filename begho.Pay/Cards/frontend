@@ -1,0 +1,21 @@
+<html>
+ENTER # OUTPUTS:
+<textarea cols="10" rows="1">
+</textarea>
+<br> DENOMINATIONS:
+<form action=" ">
+ <input type="checkbox" name="20" value="20">20<br>
+ <input type="checkbox" name="50" value="50">50<br>
+ <input type="checkbox" name="100" value="100">100<br>
+ <input type="checkbox" name="200" value="200">200<br>
+</form>
+<button type="button">GENERATE</button>
+<br>OUTPUT:<br> 
+<br><textarea cols="50" rows="10">
+</textarea>
+<br><br>ENTER NUMBER TO SEARCH:
+<textarea cols ="30" rows="1"> 
+</textarea>
+ <button type="button">SEARCH</button>
+ <br>
+</html>

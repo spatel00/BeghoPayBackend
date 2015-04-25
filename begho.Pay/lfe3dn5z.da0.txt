@@ -1,0 +1,70 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   helloworld/Mobile_Detect.php
+#	new file:   helloworld/app.yaml
+#	new file:   helloworld/applet_script.php
+#	new file:   helloworld/bank_input.php
+#	new file:   helloworld/bank_input.txt
+#	new file:   helloworld/banner.php
+#	new file:   helloworld/calc_applet.php
+#	new file:   helloworld/calc_script.js
+#	new file:   helloworld/calculator_view.php
+#	new file:   helloworld/cc_input.php
+#	new file:   helloworld/contact.php
+#	new file:   helloworld/dependencies.php
+#	new file:   helloworld/deviceDetectorTest.php
+#	new file:   helloworld/faq.php
+#	new file:   helloworld/footer.php
+#	new file:   helloworld/functions.php
+#	new file:   helloworld/helloworld.php
+#	new file:   helloworld/images/32-facebook.png
+#	new file:   helloworld/images/32-tumblr.png
+#	new file:   helloworld/images/32-twitter.png
+#	new file:   helloworld/images/32-youtube-2.png
+#	new file:   helloworld/images/LocationAfrica.jpg
+#	new file:   helloworld/images/begho_logo_fullpage2.jpg
+#	new file:   helloworld/images/begho_web_banner1.jpg
+#	new file:   helloworld/images/devices.jpg
+#	new file:   helloworld/images/scroll_image1.jpg
+#	new file:   helloworld/login.php
+#	new file:   helloworld/logout.php
+#	new file:   helloworld/master2_script.php
+#	new file:   helloworld/master_page.php
+#	new file:   helloworld/master_page2.php
+#	new file:   helloworld/master_page3.php
+#	new file:   helloworld/master_script.php
+#	new file:   helloworld/processing.php
+#	new file:   helloworld/redeem_email.php
+#	new file:   helloworld/scroll_view.php
+#	new file:   helloworld/send_applet.php
+#	new file:   helloworld/signup.php
+#	new file:   helloworld/start_session.php
+#	new file:   helloworld/stylesheets/calc.css
+#	new file:   helloworld/stylesheets/login.css
+#	new file:   helloworld/stylesheets/main.css
+#	new file:   helloworld/stylesheets/scroll.css
+#	new file:   helloworld/stylesheets/signup.css
+#	new file:   helloworld/tableTest.php
+#	new file:   helloworld/test1.php
+#	new file:   helloworld/test2.php
+#	new file:   helloworld/test3.php
+#	new file:   helloworld/test4.php
+#	new file:   helloworld/test5.php
+#	new file:   helloworld/test6.php
+#	new file:   helloworld/test7.php
+#	new file:   helloworld/test8.php
+#	new file:   helloworld/test9.php
+#	new file:   helloworld/value_prop.php
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	ehegc5lu.umu.txt
+#	webservices/
+

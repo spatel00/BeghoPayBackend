@@ -1,0 +1,23 @@
+application: begho-user-services
+version: 1
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /images
+  static_dir: images
+  
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /(.+\.php)
+  script: \1
+
+- url: /stylesheets
+  static_dir: stylesheets
+  
+- url: /.*
+  script: main.php
+  
